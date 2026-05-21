@@ -102,7 +102,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		font-family: 'Open Sans', sans-serif;
-		color: #7b818c;
+		color: #000000;
 		font-weight: 400;
 		font-size: 11pt;
 		line-height: 1.85em;
@@ -121,7 +121,7 @@ input, select, textarea {
 		text-transform: uppercase;
 		font-weight: 800;
 		letter-spacing: 0.04em;
-		color: #404248;
+		color: #000000;
 		margin: 0 0 1em 0;
 	}
 
@@ -154,7 +154,7 @@ input, select, textarea {
 	}
 
 	b, strong {
-		color: #404248;
+		color: #000000;
 		font-weight: 700;
 	}
 
@@ -180,11 +180,11 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-top: solid 1px #ddd;
+		border-top: solid 1px #000000;
 	}
 
 	blockquote {
-		border-left: solid 0.5em #ddd;
+		border-left: solid 0.5em #000000;
 		padding: 1em 0 1em 2em;
 		font-style: italic;
 	}
@@ -199,7 +199,7 @@ input, select, textarea {
 		font-weight: 700;
 		letter-spacing: 0.065em;
 		font-size: 0.9em;
-		color: #696969;
+		color: #000000;
 		margin: 0 0 0.25em 0;
 	}
 
@@ -1243,12 +1243,12 @@ input, select, textarea {
 			font-weight: 700;
 			letter-spacing: 0.065em;
 			font-size: 0.9em;
-			color: #696969;
+			color: #000000;
 			margin: 0;
 		}
 
 			header p strong {
-				color: #404248;
+				color: #000000;
 				font-weight: 800;
 			}
 
@@ -1285,7 +1285,7 @@ input, select, textarea {
 		text-transform: uppercase;
 		font-weight: 800;
 		letter-spacing: 0.04em;
-		color: #404248;
+		color: #000000;
 		margin: 0 0 1em 0;
 		font-size: 0.8em;
 	}
@@ -1331,7 +1331,7 @@ input, select, textarea {
 	form :-moz-placeholder,
 	form ::-moz-placeholder,
 	form :-ms-input-placeholder {
-		color: #555 !important;
+		color: #000000 !important;
 	}
 
 	form ::-moz-focus-inner {
@@ -1371,7 +1371,7 @@ input, select, textarea {
 			}
 
 			table.default thead {
-				background: #404248;
+				background: #000000;
 				color: #fff;
 			}
 
@@ -1560,7 +1560,7 @@ input, select, textarea {
 		font-weight: 700;
 		letter-spacing: 0.065em;
 		font-size: 0.9em;
-		color: #696969;
+		color: #000000;
 		float: left;
 		width: 6em;
 	}
@@ -1800,7 +1800,7 @@ input, select, textarea {
 		}
 
 		.dropotron a, .dropotron span {
-			color: #aaa;
+			color: #000000;
 			text-decoration: none;
 			text-transform: uppercase;
 			font-weight: 800;
@@ -2022,7 +2022,7 @@ input, select, textarea {
 		}
 
 		#footer dl.contact dt {
-			color: #ddd;
+			color: #000000;
 		}
 
 	#copyright {
@@ -2237,7 +2237,7 @@ input, select, textarea {
 
 				#navPanel .link {
 					display: block;
-					color: #aaa;
+					color: #000000;
 					text-decoration: none;
 					height: 44px;
 					line-height: 44px;
