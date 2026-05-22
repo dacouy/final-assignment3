@@ -1975,8 +1975,8 @@ input, select, textarea {
 			align-items: center;
 			gap: 15px;
 		}
-		#header h1 p {
-			width: 290px;
+		#header h1>span {
+			width: 330px;
 		}
 		.logo-text {
 			color: red
